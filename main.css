@@ -1,0 +1,59 @@
+.tab-card-header .nav-tabs {
+  border: none;
+  margin: 0px;
+}
+
+.tab-card-header .nav-tabs li {
+  margin-right: 2px;
+}
+
+.tab-card-header .nav-tabs li a {
+  border: 0;
+  border-bottom: 2px solid transparent;
+  margin-right: 0;
+  color: #737373;
+  padding: 2px 15px;
+}
+
+.tab-card-header .nav-tabs li a :hover {
+  color: #007bff;
+}
+
+.tab-card-header .nav-tabs li a.show {
+  border-bottom: 2px solid #007bff;
+  color: #007bff;
+  background: #f7f7f7;
+}
+
+.bg-fb {
+  background: #415a93;
+}
+
+.text-fb {
+  color: #415a93;
+}
+
+.bg-gp {
+  background: #cd5642;
+}
+
+.text-gp {
+  color: #cd5642;
+}
+
+.bg-tw {
+  background: #47a2eb;
+}
+
+.text-tw {
+  color: #47a2eb;
+}
+
+.bg-pi {
+  background: #ad2525;
+}
+
+.text-pi {
+  color: #ad2525;
+}
+/*# sourceMappingURL=main.css.map */
